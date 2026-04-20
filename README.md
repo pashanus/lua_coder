@@ -8,7 +8,7 @@
 3. generate prompt        
 4. code                   
 5. tests for code            
-6. busted, luacheck          
+6. busted, luacheck(фреймворки lua для проверки кода)         
 7. planner check                
 
      6.1 instruction for fix(if need)  
